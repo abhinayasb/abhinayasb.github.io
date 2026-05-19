@@ -110,7 +110,7 @@ author:
   avatar           : "/images/asb.jpg"
   bio              : "PhD Candidate at NC State University<br>asrivid at ncsu dot edu"
   location         : "Raleigh, North Carolina"
-  # email            : asrivid at ncsu dot edu
+  email            : asrivid at ncsu dot edu
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
