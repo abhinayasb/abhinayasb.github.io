@@ -108,9 +108,9 @@ analytics:
 author:
   name             : "Abhinaya S B"
   avatar           : "/images/asb.jpg"
-  bio              : "PhD student at NC State University"
+  bio              : "PhD Candidate at NC State University<br>asrivid at ncsu dot edu"
   location         : "Raleigh, North Carolina"
-  email            : asrivid at ncsu dot edu
+  # email            : asrivid at ncsu dot edu
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
@@ -118,6 +118,9 @@ author:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://linkedin.com/in/sbabhinaya"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=_RvbgiQAAAAJ&hl=en
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Abhinaya_SB_"
